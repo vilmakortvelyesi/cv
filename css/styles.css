@@ -60,7 +60,16 @@ body {
 }
 .language-level {
 	 	background:#2B2D31;
+	
 }
 .position-absolute {
 	 	color:#FFFFF;
 }
+h1{
+	text-shadow: 2px 1px 3px grey;
+}
+
+.link-light:hover {
+background-color:#87CEEB ;
+}
+
